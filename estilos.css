@@ -41,7 +41,7 @@ nav a:hover{
 
 .hero{
     height:100vh;
-    background:url('img/fondo.jpg') center/cover;
+    background:url('fondo.jpg') center/cover;
     display:flex;
     justify-content:center;
     align-items:center;
@@ -181,7 +181,7 @@ p{
     margin-bottom:30px;
 }
 .hero3{
-background: url(img/fondodeblog.jpg);
+background: url(fondodeblog.jpg);
 
 
 
@@ -235,7 +235,7 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 body{
     background-image: linear-gradient(rgba(0,0,0,0.6),
     rgba(0,0,0,0.6)),
-    url("img/fondo2.jpg");
+    url("fondo2.jpg");
 
     background-size: cover;
     background-position: center;
